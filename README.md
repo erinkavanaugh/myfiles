@@ -1,4 +1,4 @@
 # myfiles
 Things I save
-*Cats
-*Puppies
+*   Cats
+*   Puppies
